@@ -1,1 +1,1 @@
-hello everyone this is git group for sharing your code and progress.
+hello everyone this is git group for sharing your code and progress.git is the distributed system for controlling version of program.
